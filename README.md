@@ -28,3 +28,4 @@ I am a Software Developer with aspiration to Full Stack Developer. I have fun an
 ![SQLite](https://img.shields.io/badge/-SQLite-003545?style=flat-square&logo=SQLite&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-fff?style=flat&logo=firebase)
