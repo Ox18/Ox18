@@ -1,4 +1,4 @@
-# Hi, I´m Alex 👨🏻‍💻💚
+# Hi, I´m Wilmer👨🏻‍💻💚
 
 I am a Software Developer and Full Stack Web Developer. <br>
 I have fun and passion for working with JS technology and everything related to it. (TypeScript, VanillaJS, NodeJS) <br>
