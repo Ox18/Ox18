@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/alexwathever/static/js/main.149161c9.chunk.js",
-    "main.js.map": "/alexwathever/static/js/main.149161c9.chunk.js.map",
+    "main.js": "/alexwathever/static/js/main.c8cb7aae.chunk.js",
+    "main.js.map": "/alexwathever/static/js/main.c8cb7aae.chunk.js.map",
     "runtime-main.js": "/alexwathever/static/js/runtime-main.67cc2ed5.js",
     "runtime-main.js.map": "/alexwathever/static/js/runtime-main.67cc2ed5.js.map",
     "static/js/2.1cb5d039.chunk.js": "/alexwathever/static/js/2.1cb5d039.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.67cc2ed5.js",
     "static/js/2.1cb5d039.chunk.js",
-    "static/js/main.149161c9.chunk.js"
+    "static/js/main.c8cb7aae.chunk.js"
   ]
 }

@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-app"]=this["webpackJsonpmy-app"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var o=n(3),r=n.n(o),i=(n(1),n(0)),p=function(){return Object(i.jsx)("div",{children:"mi portfolio - Wilmer Delgado"})};r.a.render(Object(i.jsx)(p,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.149161c9.chunk.js.map
