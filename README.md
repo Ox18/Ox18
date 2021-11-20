@@ -31,7 +31,6 @@ Beyond creating and solving problems, I am driven by the desire to help others a
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 
 #### Databases
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=SQLite&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
