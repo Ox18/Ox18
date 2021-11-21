@@ -1,7 +1,7 @@
 # Hi, I´m Wilmer👨🏻‍💻💚
 
 I am a Software Developer and Full Stack Web Developer. <br>
-I have fun and passion for working with JS technology and everything related to it. (TypeScript, VanillaJS, NodeJS) <br>
+I have fun and passion for working with JS technology and everything related to it. (TypeScript, VanillaJS, NodeJS)
 Beyond creating and solving problems, I am driven by the desire to help others and make a greater impact.
 
 #### Languages
