@@ -1,13 +1,18 @@
 footer {
   padding: 1rem 0;
-  background-color: #fafafa;
-  border-top: 1px solid #eaeaea;
+  background-color: $COLOR_BLUE_GREEN;
+  border-top: 1px solid $COLOR_JADE;
   text-align: center;
   font-size: 0.8rem;
-  color: #999;
+  color: $COLOR_WHITE;
 
   position: fixed;
   left: 0;
   width: 100%;
   bottom: 0;
+
+  a {
+    color: $COLOR_WHITE;
+    text-decoration: none;
+  }
 }
