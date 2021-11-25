@@ -5,7 +5,7 @@ import { FooterGenericComponent } from "../../components";
 export const HomeView = () => {
   return (
     <>
-      <div>sdf</div>
+      <div>Test</div>
       <FooterGenericComponent />
     </>
   );
