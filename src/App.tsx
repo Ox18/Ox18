@@ -1,7 +1,13 @@
 import React from "react";
 
+import { HomeView } from "./View";
+
 const App = () => {
-  return <div>Coming soon, portfolio!</div>;
+  return (
+    <>
+      <HomeView />
+    </>
+  );
 };
 
 export default App;
