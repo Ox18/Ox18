@@ -1,6 +1,7 @@
 # Hi, I´m Wilmer👨🏻‍💻💚
 
-I am a Software Developer and Full Stack Web Developer. <br> I have fun and passion for working with JS technology and everything related to it. (TypeScript, VanillaJS, NodeJS)<br>Beyond creating and solving problems, I am driven by the desire to help others and make a greater impact.
+I am a Software Developer and Full Stack Web Developer. <br> I have fun and passion for working with JS technology and everything related to it. 
+(TypeScript, VanillaJS, NodeJS)<br>Beyond creating and solving problems, I am driven by the desire to help others and make a greater impact.
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
