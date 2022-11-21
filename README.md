@@ -36,3 +36,5 @@ Currently learning Docker, Socket, and Design Patterns.
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-4285F4?style=flat-square&logo=firebase)
+
+![user github stats](https://github-readme-stats.vercel.app/api?username=Ox18&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06&hide=stars,contribs)
